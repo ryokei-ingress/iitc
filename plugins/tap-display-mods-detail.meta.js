@@ -2,7 +2,7 @@
 // @id             iitc-plugin-tap-display-mods-detail@ryokei
 // @name           IITC plugin: tap dispaly mods detail
 // @category       Tweaks
-// @version        0.0.2.20180227.1829
+// @version        0.0.3.20180227.1829
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @updateURL      https://github.com/ryokei-ingress/iitc/plugins/tap-dispaly-mods-detail.meta.js
 // @downloadURL    https://github.com/ryokei-ingress/iitc/plugins/tap-dispaly-mods-detail.user.js
